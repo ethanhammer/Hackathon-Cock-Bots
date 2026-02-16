@@ -1,4 +1,4 @@
-# 🚀 CockBots: A Social Media Platform for USC Starship Food Delivery Robots
+#  CockBots: A Social Media Platform for USC Starship Food Delivery Robots
 
 This project is the result of our efforts at the **2024 Cocky Hackathon**, where we built a unique social media website dedicated to the beloved Starship food delivery robots at the University of South Carolina.
 
@@ -6,7 +6,7 @@ This project is the result of our efforts at the **2024 Cocky Hackathon**, where
 - **1st Place** - Most Functional Project
 - **2nd Place Overall**
 
-## 📚 Project Overview
+##  Project Overview
 **CockBots** allows users to create accounts, upload photos of USC's Starship robots, and share their favorite moments. To maintain the focus on our robotic friends, we integrated an AI model trained specifically to recognize and validate the presence of Starship robots in each post.
 
 ##  Tech Stack
